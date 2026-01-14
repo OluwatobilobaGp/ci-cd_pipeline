@@ -1,0 +1,17 @@
+{
+  "name": "ci-cd_pipeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OluwatobilobaGp/ci-cd_pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
